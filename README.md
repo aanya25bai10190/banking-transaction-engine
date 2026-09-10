@@ -20,5 +20,5 @@ A robust, console-based banking application built in Java demonstrating core obj
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/aanya25bai10190/banking-transaction-engine.git](https://github.com/aanya25bai10190/banking-transaction-engine.git)
+   git clone https://github.com/aanya25bai10190/banking-transaction-engine.git
    cd banking-transaction-engine
