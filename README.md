@@ -4,16 +4,6 @@
 
 ---
 
-## 📚 Course Information
-
-| Field | Details |
-|-------|---------|
-| **Course Code** | CSE2006 — Programming in Java |
-| **Project Type** | Evaluated Course Project |
-| **Student** | **Aanya Yadav** |
-| **Registration Number** | **25BAI10190** |
-
----
 
 ## ✨ Features
 
