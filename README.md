@@ -207,4 +207,3 @@ This project demonstrates the implementation of a simplified banking system whil
 
 **Aanya Yadav**
 
-*Course Project — CSE2006: Programming in Java*
